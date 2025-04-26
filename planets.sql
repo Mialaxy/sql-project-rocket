@@ -8,3 +8,5 @@ CREATE TABLE planets (
     Orbital_period_days FLOAT,  
     Discovery_date DATE         
 );
+
+
